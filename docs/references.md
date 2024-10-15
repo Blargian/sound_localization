@@ -9,3 +9,5 @@
 - [WM8994 (audio codec)](https://www.cirrus.com/products/wm8994/)
 - [STM32F746G-DISCO hardware schematic](https://www.st.com/content/ccc/resource/technical/layouts_and_diagrams/schematic_pack/group1/ff/cd/ce/2d/f8/fb/40/69/mb1191-F746NGH6-C01_schematic/files/mb1191-F746NGH6-C01_schematic.pdf/jcr:content/translations/en.mb1191-F746NGH6-C01_schematic.pdf).
 - [PDM2PCM software library](https://www.st.com/resource/en/user_manual/um2372-stm32cube-pdm2pcm-software-library-for-the-stm32f4f7h7-series-stmicroelectronics.pdf)
+- [STM32 lecture on PDM MEMs (L/R pins, power modes, AOP and dBSPL, noise, dBFS)](https://www.youtube.com/watch?v=a-diRANswfw&list=PLnMKNibPkDnFiiUunr0CHbfSvIkBTnsBs&index=3)
+- [STM32 SAI part I (Russian language)](https://www.youtube.com/watch?v=nVU2spOhVs8)
