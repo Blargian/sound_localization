@@ -14,3 +14,8 @@
 - [STM32 lecture on PDM MEMs (L/R pins, power modes, AOP and dBSPL, noise, dBFS)](https://www.youtube.com/watch?v=a-diRANswfw&list=PLnMKNibPkDnFiiUunr0CHbfSvIkBTnsBs&index=3)
 - [STM32 SAI part I (Russian language)](https://www.youtube.com/watch?v=nVU2spOhVs8)
 - [STM32F746NGH6U datasheet]()
+
+## Intresting papers
+
+- [Edge computing applications: using a linear MEMS microphone array for UAV position detection through sound source localization](https://ceur-ws.org/Vol-3666/paper02.pdf)
+- [Intelligent Microsystem for Sound Event Recognition in Edge Computing Using End-to-End Mesh Networking](https://www.mdpi.com/1424-8220/23/7/3630)
