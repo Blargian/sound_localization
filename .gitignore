@@ -1,0 +1,22 @@
+# IDE related
+
+.project
+.idea
+.cproject
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+*.launch
+.buildpath
+
+# Build results
+
+/firmware/sound_localizer/cmake-build-debug
