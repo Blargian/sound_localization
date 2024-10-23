@@ -163,7 +163,8 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  
+    DBGMCU->APB1FZ = 1 << 4; // disable timer 6 for debug purposes
+    RCC->CFGR=0; // force HAL_RCC_OscConfig to correctly update RCC (OpenOCD debugger issue)
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -203,7 +204,6 @@ int main(void)
   MX_USART6_UART_Init();
   MX_FATFS_Init();
   /* USER CODE BEGIN 2 */
-
   /* USER CODE END 2 */
 
   /* USER CODE BEGIN RTOS_MUTEX */
